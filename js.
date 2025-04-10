@@ -1,7 +1,7 @@
 {
     "name": "ƒℓуℓιтє",
-    "color": "#df2928",
-    "bgcolor": "#136ab9",
+    "color": "red",
+    "bgcolor": "blue",
     "aircrafts": {
         "1": {
             "name": "Piper J3 Cub",
