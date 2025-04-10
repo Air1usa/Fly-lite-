@@ -1,5 +1,5 @@
 {
-    "name": "𝐟𝐥𝐲 𝐥𝐢𝐭𝐞",
+    "name": "𝐟𝐥𝐲𝐥𝐢𝐭𝐞",
     "color": "red",
     "bgcolor": "blue",
     "aircrafts": {
@@ -460,7 +460,7 @@
             "name": "Boeing b777-300ER",
             "liveries": [
                 {
-                    "name": "𝐟𝐥𝐲 𝐥𝐢𝐭𝐞", 
+                    "name": "𝐟𝐥𝐲𝐥𝐢𝐭𝐞", 
                     "texture": [
                         "https://i.ibb.co/bg9rGytv/Untitled.png"
                     ],
